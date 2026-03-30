@@ -7,3 +7,6 @@
 
 [V1.02 - Flexstand FX ILS](https://github.com/Chauvet-DJ/FLEXSTANDFXILS/blob/30e9c4b576d8fb00b65b5a95c9980afa9f2c32fc/firmware/V1.02.zip)
 - Released initial software version
+
+[V1.04 - Flexstand FX ILS](https://github.com/Chauvet-DJ/FLEXSTANDFXILS/blob/902fd2ac57d5013d8427d2cd9dcce46aa315aee1/firmware/V1.04.zip)
+- Fixed a bug where the master dimmer did not control the pixel chases when controlled by an ILS Command
